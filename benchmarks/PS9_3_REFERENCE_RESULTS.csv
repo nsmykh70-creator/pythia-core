@@ -1,0 +1,6 @@
+dataset,bytes,coefficients,zlib_original_bytes,zlib_residual_bytes,roundtrip
+mixed_10mb,10485760,"0;0;0;0",5249847,5249847,true
+linear_64k,65536,"1;0;0;0",585,87,true
+quadratic_64k,65536,"7;64;64;120",582,289,true
+lcg_64k,65536,"1;0;0;0",2847,329,true
+random_64k,65536,"46;0;0;0",65562,65562,true

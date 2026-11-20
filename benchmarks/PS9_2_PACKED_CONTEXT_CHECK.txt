@@ -1,0 +1,7 @@
+Input: mixed_10mb_compression_test.bin, first 524288 bytes
+Unique contexts (orders 0..4): 4902
+Per-context 256-symbol count arrays: identical to Vec-key reference
+Old temporary key candidates: 2621430
+New heap allocations for keys in counting loop: 0
+Rust build/tests: not run (rustc/cargo unavailable)
+Compression ratio, runtime and peak RSS: not measured

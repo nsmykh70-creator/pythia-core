@@ -1,0 +1,14 @@
+[package]
+name = "pythia-core"
+version = "0.9.8"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+description = "PYTHIA lossless archive format and reversible compression engine"
+
+[lib]
+name = "pythia_core"
+path = "src/lib.rs"
+
+[dependencies]
+
+[dev-dependencies]
